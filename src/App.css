@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+#logo{
+    padding: 12px;
+}
+.content-item{
+    border: 1px solid #bbb;
+    max-width: 500px;
+    box-shadow: 1px 1px 5px 1px #999;
+    margin: 0px auto;
+    margin-bottom: 6px;
+}
+.item-text{
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+}
+.item-image{
+    width: 100%;
+}
