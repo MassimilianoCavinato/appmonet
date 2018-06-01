@@ -4,7 +4,7 @@ This test is done using React js - 45mins
 
 Requires npm.
 
-Installiation:
+Installation:
 
 Clone or download this repo
 
