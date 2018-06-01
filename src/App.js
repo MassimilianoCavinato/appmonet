@@ -25,7 +25,6 @@ class App extends React.Component {
 
     showContentItems(){
         return this.state.c.map((item, index) => {
-            console.log(item);
             return (
                 <ContentItem key={index} data={item} />
             )
@@ -35,7 +34,7 @@ class App extends React.Component {
     render() {
         return (
             <div className="App container-fluid">
-                <img id='logo' src={this.state.m.i} />
+                <img id='logo' src={this.state.m.i} alt='Logo'/>
                 {this.showContentItems()}
             </div>
         );
