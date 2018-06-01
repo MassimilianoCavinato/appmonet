@@ -4,10 +4,14 @@ This test is done using React js - 45mins
 
 Requires npm.
 
-Installing from Linux:
+Installiation:
 
+Clone or download this repo
+Then from commandline:
 ```
 cd appmonet
 npm install
 npm start
 ```
+Your default browser should open at:
+http://localhost:3000
